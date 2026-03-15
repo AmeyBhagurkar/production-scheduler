@@ -1,0 +1,6 @@
+streamlit
+streamlit-autorefresh
+huggingface_hub
+pandas
+plotly
+openpyxl
