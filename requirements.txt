@@ -1,5 +1,0 @@
-streamlit
-huggingface_hub
-pandas
-plotly
-openpyxl
